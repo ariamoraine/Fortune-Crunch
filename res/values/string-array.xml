@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fortunes">
+        <item>The fortune you seek is in another cookie.</item>
+        <item>Ooops wrong cookie</item>
+        <item>Warning: Do not eat your fortune!</item>
+        <item>Everyone agrees you\'re the best.</item>
+        <item>Keep your goals away from the trolls</item>
+    </string-array>
+</resources>
